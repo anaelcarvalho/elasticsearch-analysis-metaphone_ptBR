@@ -20,7 +20,7 @@ mvn clean package
 
 |Metaphone ptBR Plugin|Elasticsearch|JDK
 |---|---|---|
-| 1.0.0|5.0+|1.8+|
+| 1.0.0|5.0.*|1.8+|
 
 ## Usage
 
